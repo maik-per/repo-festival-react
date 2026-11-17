@@ -1,0 +1,24 @@
+{
+  "name": "repo-festival-react",
+  "version": "1.0.0",
+  "description": "REPOSITOTIO DE REACT",
+  "keywords": [
+    "DWEB",
+    "DAM"
+  ],
+  "homepage": "https://github.com/maik-per/repo-festival-react#readme",
+  "bugs": {
+    "url": "https://github.com/maik-per/repo-festival-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maik-per/repo-festival-react.git"
+  },
+  "license": "ISC",
+  "author": "Mikel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
